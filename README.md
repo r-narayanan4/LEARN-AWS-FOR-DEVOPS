@@ -6,9 +6,8 @@ This repository is a comprehensive guide to learning AWS concepts through YouTub
 
 - a. [IAM (Identity and Access Management)](https://youtu.be/mCLYcsJ0GXQ?feature=shared)
 - b. [KMS (Key Management Service)](https://youtu.be/qxlQWsgem8M?feature=shared)
-- c. [WAF (Web Application Firewall)](https://youtu.be/8_em5dAf_0k?feature=shared)
-- d. [Secret Manager](https://youtu.be/QFczS3wvDIc?feature=shared)
-- e. [Secret Management](https://youtu.be/FllcHYsBm78?feature=shared)
+- c. [WAF (Web Application Firewall)](https://youtu.be/mfKT0fmhoUk?feature=shared)
+- d. [Secret Management](https://youtu.be/FllcHYsBm78?feature=shared)
 
 ## 2. Storage
 
