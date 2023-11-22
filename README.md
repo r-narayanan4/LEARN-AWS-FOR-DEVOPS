@@ -32,7 +32,7 @@ This repository is a comprehensive guide to learning AWS concepts through YouTub
 - e. [ECS (Elastic Container service)](https://youtu.be/nnIFkEOzNp4?feature=shared)
 - f. [EKS (Elastic Kubernetes Service)](https://youtu.be/RRCrY12VY_s?feature=shared)
 - g. [Lambda](https://youtu.be/5fTtmeCpSRw?feature=shared)
-- h. [API Gateway](https://youtu.be/Y0LL1_kiCdM?feature=shared)
+- h. [API Gateway](https://www.youtube.com/live/ZtzeCCXwyLw?feature=shared)
 
 ## 5. Monitoring
 
