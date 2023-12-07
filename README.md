@@ -13,9 +13,9 @@ This repository is a comprehensive guide to learning AWS concepts through YouTub
 
 - a. [S3 (Simple Storage Service)](https://youtu.be/DiWWPo2Qoso?feature=shared)
 - b. [RDS (Relational Database Service)](https://youtu.be/rM_c7K0-tC0?feature=shared)
-- c. [DocumentDB](https://youtu.be/VjiuOxpaQ7A?feature=shared)
-- d. [DynamoDB](https://youtu.be/VUfDzTzzPRE?feature=shared)
-- e. [EBS (Elastic Block Store)](https://youtu.be/6vNC_BCqFmI?feature=shared)
+- c. [DocumentDB](https://youtu.be/VjiuOxpaQ7A?feature=shared) 
+- d. [DynamoDB](https://youtu.be/FQrN5aJWa_U?feature=shared)
+- e. [EBS (Elastic Block Store)](https://youtu.be/m9mKzdBE90I?feature=shared)
 
 ## 3. Network
 
