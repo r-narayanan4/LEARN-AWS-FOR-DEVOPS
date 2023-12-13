@@ -39,13 +39,12 @@ This repository is a comprehensive guide to learning AWS concepts through YouTub
 - a. [CloudWatch](https://youtu.be/u4XngwbY-O0?feature=shared)
 - b. [CloudTrail](https://youtu.be/w9-vKcxb18k?feature=shared)
 - c. [Cloudflare](https://youtu.be/5l71OX0oWNQ?feature=shared)
-- d. [AWS Config](https://youtu.be/ig1KxKgN8ls?feature=shared)
 
 ## 6. AWS integration Service
 
 - a. [SES (Simple Email Service)](https://youtu.be/ZVOPM3XqYu0?feature=shared)
-- b. [SNS (Simple Notification Service)](YouTube-Link-for-SNS)
-- c. [SQS (Simple Queue Service)](https://youtu.be/liC_fBtQT2Y?feature=shared)
+- b. [SQS (Simple Queue Service)](https://youtu.be/liC_fBtQT2Y?feature=shared)
+- c. [SNS (Simple Notofication Service)](https://youtu.be/bktTomENEX8?feature=shared)
 
 ## 7. DevOps
 
@@ -53,5 +52,3 @@ This repository is a comprehensive guide to learning AWS concepts through YouTub
 - b. [CodeBuild](https://youtu.be/qGgNyOkZEb0?feature=shared)
 - c. [CodeDeploy](https://youtu.be/lbBg9FMnnPM?feature=shared)
 - d. [CodePipeline](https://youtu.be/Tbp8325cKJ8?feature=shared)
-- e. [Cloudformation](https://youtu.be/ov4WmWgQgsA?feature=shared)
-- f. [AWSCLI](https://youtu.be/TiDSwf8gydk?feature=shared)
